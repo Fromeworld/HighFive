@@ -1,5 +1,9 @@
 # To use HDF5 save std::vector and so on
 
+## Some negative comment about using HDF5 
+
+<http://cyrille.rossant.net/moving-away-hdf5/>
+
 ## First one need to install HDF5 library on computer
 
 Download the tar file and use ./configure make make install.
